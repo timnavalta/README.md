@@ -5,7 +5,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [linkedin]: <a href="https://www.linkedin.com/in/timothy-navalta-0b2570155" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
-<h3 align="left"><a href="https://www.linkedin.com/in/timothy-navalta-0b2570155/">Connect with me:</h3></a>
+<h3 align="left"><a href="https://www.linkedin.com/in/timothy-navalta-0b2570155/"
 <p align="left">
 
 
