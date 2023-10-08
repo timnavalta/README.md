@@ -1,5 +1,5 @@
-<h1>Hi, I'm Timothy! <br/><a href="https://github.com/timnavalta"> <a href="https://www.linkedin.com/in/timothy-navalta-0b2570155/">Cybersecurity Professional</a>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h1>Hi, I'm Timothy! <br/><a href="https://github.com/timnavalta"> <a href="https://www.linkedin.com/in/timothy-navalta-0b2570155/"></a>
+<h3 align="left">A passionate Cybersecurity professional from USA</h3>
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/timothy-navalta-0b2570155" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
