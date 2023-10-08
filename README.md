@@ -1,5 +1,5 @@
 <h1>Hi, I'm Timothy! <br/><a href="https://github.com/timnavalta"> <a href="https://www.linkedin.com/in/timothy-navalta-0b2570155/">Cybersecurity Professional</a>
-I am a dedicated and results-driven cybersecurity professional with a proven track record in safeguarding critical digital assets. With a deep passion for securing information and a commitment to staying ahead of evolving cyber threats, I bring a unique blend of technical expertise, strategic thinking, and ethical responsibility to every project I undertake.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <h2> 🤳 Connect with me:</h2>
